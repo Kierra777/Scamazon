@@ -1,0 +1,46 @@
+body {
+  background-image: url("images/wallpaper.jpeg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.heading2-text{
+    font-family: fantasy;
+    font-size: 30px;
+    font-display: auto;
+    text-align: center;
+    padding-top: 50px;
+}
+.heading-text{
+    text-align: center;
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 500px;
+}
+.unicorn-image{
+    transform: translate(550px);
+}
+.btn{
+    align-items: center;
+    margin-top: 15px;
+}
+.cat-image{
+    align-items: center;
+    margin-bottom: 15px;
+    transform: translate(400px);
+}
+.heading3-text{
+    font-family: fantasy;
+    text-align: center;
+    font-size: 40px;
+}
+.heading-candy{
+    font-family: fantasy;
+    font-size: 70px;
+    text-align: center;
+}
+.evil-elom{
+    width: 800px;
+    height: 800px;
+    transform: translate(600px);
+}
