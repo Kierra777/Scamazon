@@ -5,7 +5,7 @@ body {
   background-size: cover;
 }
 .heading2-text{
-    font-family: fantasy;
+    font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 30px;
     font-display: auto;
     text-align: center;
@@ -30,12 +30,12 @@ body {
     transform: translate(400px);
 }
 .heading3-text{
-    font-family: fantasy;
+    font-family: Georgia, 'Times New Roman', Times, serif;
     text-align: center;
     font-size: 40px;
 }
 .heading-candy{
-    font-family: fantasy;
+    font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 70px;
     text-align: center;
 }
@@ -43,4 +43,5 @@ body {
     width: 800px;
     height: 800px;
     transform: translate(600px);
+
 }
