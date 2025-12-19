@@ -28,12 +28,12 @@
   padding-top: 20px;
 }
 .main-heading {
-  font-family: fantasy;
+  font-family: Georgia, 'Times New Roman', Times, serif;
   text-align: center;
   font-size: 60px;
 }
 .john-heading {
-  font-family: fantasy;
+  font-family: Georgia, 'Times New Roman', Times, serif;
   text-align: center;
   font-size: 60px;
   padding-top: 15px;
@@ -42,7 +42,7 @@
 .welcome-heading {
   text-align: center;
   padding-bottom: 30px;
-  font-family: fantasy;
+  font-family: Georgia, 'Times New Roman', Times, serif;
   font-size: 500px;
   color: #2a0061;
 }
@@ -87,4 +87,5 @@ body {
 
 .custom-card img{
   height: 200px;
+
 }
